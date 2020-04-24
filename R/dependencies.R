@@ -7,7 +7,6 @@
 #'   [attachDependencies][htmltools::attachDependencies()].
 #'
 #' @export
-#' @keywords internal
 #'
 #' @examples
 #' html_dependency_spectral()

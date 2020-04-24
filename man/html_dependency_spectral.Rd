@@ -17,4 +17,3 @@ Markdown output formats or Shiny applications.
 \examples{
 html_dependency_spectral()
 }
-\keyword{internal}
