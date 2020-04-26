@@ -15,6 +15,16 @@
 #' html_dependency_spectral()
 NULL
 
+#' Create an HTML dependency for Marianne font
+#' @rdname html-dependencies
+#' @export
+html_dependency_marianne <- function() {
+  htmltools::htmlDependency(
+    "Marianne", "1", src = pkg_resource("fonts", "marianne"),
+    stylesheet = file.path("stylesheet.css"), all_files = TRUE
+  )
+}
+
 #' Create an HTML dependency for Spectral font
 #' @rdname html-dependencies
 #' @export

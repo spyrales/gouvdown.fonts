@@ -2,10 +2,13 @@
 % Please edit documentation in R/dependencies.R
 \name{html-dependencies}
 \alias{html-dependencies}
+\alias{html_dependency_marianne}
 \alias{html_dependency_spectral}
 \alias{html_dependency_spectral_sc}
 \title{HTML dependencies for French government web documents}
 \usage{
+html_dependency_marianne()
+
 html_dependency_spectral()
 
 html_dependency_spectral_sc()
