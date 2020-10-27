@@ -1,14 +1,17 @@
-Le code source du package gouvdown.fonts est distribué sous la LICENCE PUBLIQUE
-DE L'UNION EUROPÉENNE (EUPL - EUROPEAN UNION PUBLIC LICENCE).
+Le code source de la librairie gouvdown.fonts est distribué sous la LICENCE
+PUBLIQUE DE L'UNION EUROPÉENNE (EUPL - EUROPEAN UNION PUBLIC LICENCE) à
+l'exception des dossiers inst/resources/fonts/marianne et
+inst/resources/fonts/spectral.
 
-La package gouvdown.fonts comprend d'autres composants sous licence libre ou à
-l'usage exclusif du gouvernement français. Voici la liste de ces composants (la
-copie complète des licences de ces composants est retranscrite ci-dessous) :
+La librairie gouvdown.fonts comprend des composants sous licence libre ou à
+usage restreint. Voici la liste de ces composants (la copie complète des
+licences de ces composants est retranscrite ci-dessous) :
 
-- Spectral typeface, https://github.com/productiontype/Spectral
+- Spectral typeface, https://github.com/productiontype/Spectral située dans
+le dossier inst/resources/fonts/spectral
 
-- Police de caractères Marianne, restreinte à l'usage exclusif du gouvernement
-français.
+- Police de caractères Marianne, copie, distribution et usage restreints au
+Gouvernement français et aux administrations de l'État français.
 
 
 Licence du code source de gouvdown.fonts
