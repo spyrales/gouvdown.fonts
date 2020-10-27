@@ -20,7 +20,8 @@ NULL
 #' @export
 html_dependency_marianne <- function() {
   htmltools::htmlDependency(
-    "Marianne", "1.0", src = pkg_resource("fonts", "marianne"),
+    "Marianne", "1.0",
+    src = pkg_resource("fonts", "marianne"),
     stylesheet = file.path("stylesheet.css"), all_files = TRUE
   )
 }
@@ -30,7 +31,8 @@ html_dependency_marianne <- function() {
 #' @export
 html_dependency_spectral <- function() {
   htmltools::htmlDependency(
-    "Spectral", "2.003", src = pkg_resource("fonts", "spectral", "desktop"),
+    "Spectral", "2.003",
+    src = pkg_resource("fonts", "spectral", "desktop"),
     stylesheet = file.path("stylesheet.css"), all_files = TRUE
   )
 }
@@ -40,7 +42,8 @@ html_dependency_spectral <- function() {
 #' @export
 html_dependency_spectral_sc <- function() {
   htmltools::htmlDependency(
-    "SpectralSC", "2.003", src = pkg_resource("fonts", "spectral", "sc"),
+    "SpectralSC", "2.003",
+    src = pkg_resource("fonts", "spectral", "sc"),
     stylesheet = file.path("stylesheet.css"), all_files = TRUE
   )
 }
