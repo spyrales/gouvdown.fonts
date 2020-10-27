@@ -2,7 +2,7 @@
     font-family: 'Marianne';
     font-display: swap;
     src:  local('Marianne Light'), local('Marianne-Light'),
-          url('truetype/Marianne-Light.ttf') format('truetype');
+          url(truetype/Marianne-Light.ttf) format('truetype');
     font-weight: 300;
 }
 
@@ -10,7 +10,7 @@
     font-family: 'Marianne';
     font-display: swap;
     src:  local('Marianne Regular'), local('Marianne-Regular'),
-          url('truetype/Marianne-Regular.ttf') format('truetype');
+          url(truetype/Marianne-Regular.ttf) format('truetype');
     font-weight: 400;
 }
 
@@ -18,7 +18,7 @@
     font-family: 'Marianne';
     font-display: swap;
     src: local('Marianne Bold'), local('Marianne-Bold'),
-         url('truetype/Marianne-Bold.ttf') format('truetype');
+         url(truetype/Marianne-Bold.ttf) format('truetype');
     font-weight: 700;
 }
 
@@ -26,6 +26,6 @@
     font-family: 'Marianne';
     font-display: swap;
     src: local('Marianne ExtraBold'), local('Marianne-ExtraBold'),
-         url('truetype/Marianne-ExtraBold.ttf') format('truetype');
+         url(truetype/Marianne-ExtraBold.ttf) format('truetype');
     font-weight: 800;
 }

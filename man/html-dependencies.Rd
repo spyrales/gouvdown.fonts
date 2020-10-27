@@ -15,7 +15,7 @@ html_dependency_spectral_sc()
 }
 \value{
 An object that can be included in a list of dependencies passed to
-\link[htmltools:attachDependencies]{attachDependencies}.
+\link[htmltools:htmlDependencies]{attachDependencies}.
 }
 \description{
 These functions provide common HTML dependencies for re-use by other R
