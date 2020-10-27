@@ -8,4 +8,4 @@ Package R comprenant les polices de caractère de la charte graphique gouverneme
 
 ## Licence
 
-Le contenu de ce projet est sous licence EUPL 1.2 à l'exception du dossier `inst` (voir le fichier [LICENCE](./LICENCE).
+Le contenu de ce projet est sous licence EUPL 1.2 à l'exception du dossier `inst` (voir le fichier [LICENCE](./LICENCE)).
