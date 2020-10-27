@@ -6,4 +6,6 @@
 
 Package R comprenant les polices de caractère de la charte graphique gouvernementale.
 
-Ce package est privé en raison de la licence de la police de caractères Marianne.
+## Licence
+
+Le contenu de ce projet est sous licence EUPL 1.2 à l'exception du dossier `inst` (voir le fichier [LICENCE](./LICENCE).
