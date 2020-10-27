@@ -1,7 +1,7 @@
 Package: gouvdown.fonts
 Title: Polices de Caractères de la Charte Graphique
     Gouvernementale
-Version: 0.0.0.9001
+Version: 0.0.1
 Authors@R: 
     c(person(given = "Romain",
              family = "Lesur",
